@@ -3,7 +3,7 @@
 
 
 /*
-    INFO :
+    CATATAN :
     Untuk soal yang pertama, yaitu yang membuat fungsi encodeBaju, soal tersebut sepertinya
     sangat rancu untuk nilai-nilai yang dimiliki oleh masing-masing abjad sehingga saya akan
     berasumsi dan mengikuti aturan bahwasanya abjad-abjad pada string 'TEDUHASYIK' memiliki nilai secara berturut-turut
