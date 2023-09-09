@@ -1,7 +1,6 @@
 // Soal 1 Backend Assessment Test - Teduh
 // By Gibran Fasha Ghazanfar
 
-
 /*
     CATATAN :
     Untuk soal yang pertama, yaitu yang membuat fungsi encodeBaju, soal tersebut sepertinya
