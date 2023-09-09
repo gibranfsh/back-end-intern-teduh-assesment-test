@@ -1,5 +1,5 @@
 
-# Backend Developer Intern Assessment Test Answer! [Teduh Logo](https://static.wixstatic.com/media/a4c498_e220472ce37b4e1fb772c7ba6005377b~mv2.png/v1/fill/w_42,h_42,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo.png)
+# Backend Developer Intern Assessment Test Answer ![Teduh Logo](https://static.wixstatic.com/media/a4c498_e220472ce37b4e1fb772c7ba6005377b~mv2.png/v1/fill/w_42,h_42,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo.png)
 #### by Gibran Fasha Ghazanfar
 
 Selamat datang di repositori ini! Repositori ini berisikan implementasi dari soal-soal pada assessment test Backend Developer Intern di Teduh. Berikut ini adalah dokumentasi mengenai repositori ini.
