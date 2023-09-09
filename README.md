@@ -11,7 +11,7 @@ Repositori ini mencakup hasil pembuatan fungsi encodeBaju dan juga hasil pembuat
 ## Daftar Isi
 
 - [Soal 1: Sistem Pengodean Toko Baju](#soal-1-sistem-pengodean-toko-baju)
-- [Soal 2: Menggunakan MongoDB Query untuk Beberapa Collections](#soal-2-menghitung-average-rating)
+- [Soal 2: Menggunakan MongoDB Query untuk Beberapa Collections](#soal-2-menggunakan-mongodb-query-untuk-mendapatkan-respons-yang-berisi-psikolog-dengan-review-reviewnya-beserta-average-rating-untuk-masing-masing-psikolog)
 
 ## Soal 1: Sistem Pengodean Toko Baju
 
