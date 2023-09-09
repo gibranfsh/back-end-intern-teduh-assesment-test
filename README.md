@@ -19,7 +19,7 @@ Pada soal ini, saya mengimplementasikan sebuah sistem pengodean untuk menginform
 
 ### Contoh Penggunaan Fungsi
 
-Anda dapat menggunakan fungsi `encodeBaju` untuk menghitung hasil berdasarkan aturan encoding yang diberikan. Contoh penggunaan:
+Kalian dapat menggunakan fungsi `encodeBaju` untuk menghitung hasil berdasarkan aturan encoding yang diberikan. Contoh penggunaan:
 
 ```javascript
 console.log(encodeBaju("AT", "YH", 70000)); // ACCEPT, terima kasih sudah berbelanja
@@ -29,7 +29,7 @@ console.log(encodeBaju("DET", "DHT", 240000)); // GOOD, customer terbaik gak pak
 
 ### Cara menjalankan encodeBaju.js
 
-**Catatan 1 :** Pastikan Anda memiliki Node.js yang terinstal di sistem Anda sebelum melanjutkan.
+**Catatan 1 :** Pastikan kalian memiliki Node.js yang terinstal di sistem kalian sebelum melanjutkan.
 
 **Catatan 2 :**
 Untuk soal yang pertama, yaitu yang membuat fungsi encodeBaju, soal tersebut sepertinya
@@ -50,7 +50,7 @@ git clone https://github.com/gibranfsh/back-end-intern-teduh-assesment-test.git
 
 #### Langkah 2: Masuk ke Direktori Repositori
 
-Masuk ke direktori repositori yang baru saja Anda klon dengan perintah:
+Masuk ke direktori repositori yang baru saja kalian klon dengan perintah:
 
 ```shell
 cd back-end-intern-teduh-assesment-test
@@ -58,7 +58,7 @@ cd back-end-intern-teduh-assesment-test
 
 #### Langkah 3: Run fungsi `encodeBaju.js`
 
-Fungsi encodeBaju.js sudah dapat dijalankan, Anda bisa mengatur batasHargaJual, hargaJualIdeal, dan hargaDitawarPelanggan sesuka hati Anda.
+Fungsi encodeBaju.js sudah dapat dijalankan, Kalian bisa mengatur batasHargaJual, hargaJualIdeal, dan hargaDitawarPelanggan sesuka hati Kalian.
 
 ```shell
 node encodeBaju.js
@@ -76,7 +76,7 @@ GOOD, customer terbaik gak pake nawar
 
 Pada soal ini, saya membuat sebuah query MongoDB untuk menghitung average rating dari beberapa psikolog beserta review-reviewnya. Saya sudah menguji coba data-data (documents) yang diberikan pada soal dengan mengujicobanya secara langsung dengan membuat database serta collection Psikolog dan Review beserta data-datanya (documents) pada MongoDB. Lalu, saya mencoba dan membuat query menggunakan MongoDB Compass pada MongoDB Shell-nya.
 
-**Catatan :** Jika Anda ingin melihat hasil screenshot ketika saya menjalankan query ini pada MongoDB Shell, Anda bisa membuka file `hasilQueryMongoDB.pdf` yang sudah saya push ke dalam repositori ini, file tersebut terletak di dalam folder `Soal 2`.
+**Catatan :** Jika Kalian ingin melihat hasil screenshot ketika saya menjalankan query ini pada MongoDB Shell, Kalian bisa membuka file `hasilQueryMongoDB.pdf` yang sudah saya push ke dalam repositori ini, file tersebut terletak di dalam folder `Soal 2`.
 
 Untuk query yang saya buat adalah sebagai berikut :
 
@@ -203,8 +203,8 @@ Jika, query tersebut dijalankan, outputnya adalah seperti ini, namun untuk atrib
 **Penggunaan di Sini:** Kita menggunakan `$project` untuk memformat hasil keluaran query agar sesuai dengan format yang diinginkan. Kita menghilangkan `_id` yang ada, mengubah nama field `_id.psikolog_id` menjadi `psikolog_id`, dan membuat field baru `average_rating` untuk menyimpan average rating.
 
 ## Penutup
-Terima kasih telah mengunjungi repositori ini! Semoga hasil implementasi fungsi encodeBaju dan query MongoDB pada repositori ini dapat memberikan gambaran yang baik.
+Terima kasih sudah mengunjungi repositori ini ya! Semoga hasil implementasi fungsi encodeBaju dan query MongoDB pada repositori ini dapat memberikan gambaran yang baik bagi kalian.
 
-Jika Anda memiliki pertanyaan atau masukan lebih lanjut, jangan ragu untuk menghubungi saya. Semua feedback dan saran akan sangat saya hargai. Terima kasih!
+Jika kalian punya pertanyaan atau masukan lebih lanjut, jangan ragu untuk menghubungi saya. Semua feedback dan saran akan sangat saya hargai. Terima kasih!
 
 **Gibran Fasha Ghazanfar**
